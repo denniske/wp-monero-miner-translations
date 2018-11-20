@@ -14,41 +14,6 @@ msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
 "X-Generator: Loco - https://localise.biz/"
 
-#: ../wp-monero-miner-using-coin-hive/trunk/includes/redirect.php:5
-msgid "Redirecting..."
-msgstr ""
-
-#: ../wp-monero-miner-using-coin-hive/trunk/includes/redirect.php:32
-msgid "Library failed to load."
-msgstr ""
-
-#: ../wp-monero-miner-using-coin-hive/trunk/includes/redirect.php:34
-msgid "Please disable adblock!"
-msgstr ""
-
-#: ../wp-monero-miner-using-coin-hive/trunk/includes/redirect.php:38
-msgid "powered by"
-msgstr ""
-
-#: ../wp-monero-miner-using-coin-hive/trunk/widget/miner/partials/partial-miner.php:8
-msgid ""
-"You can now support me directly on this page using the power of your "
-"computer. You can turn it off anytime."
-msgstr ""
-
-#: ../wp-monero-miner-using-coin-hive/trunk/widget/miner/partials/partial-miner.php:12
-#, php-format
-msgid "Mining with %s Hashes/s"
-msgstr ""
-
-#: ../wp-monero-miner-using-coin-hive/trunk/widget/miner/partials/partial-miner.php:15
-msgid "Start mining"
-msgstr ""
-
-#: ../wp-monero-miner-using-coin-hive/trunk/widget/miner/partials/partial-miner.php:18
-msgid "Stop mining"
-msgstr ""
-
 #. Name of the plugin
 msgid "WP Monero Miner"
 msgstr ""
@@ -64,3 +29,74 @@ msgstr ""
 #. Author URI of the plugin
 msgid "https://github.com/denniske"
 msgstr ""
+
+msgid "Captcha - Please wait"
+msgstr ""
+
+msgid "Captcha - Verified"
+msgstr ""
+
+msgid "Captcha"
+msgstr ""
+
+msgid "Verify now"
+msgstr ""
+
+msgid "Library failed to load."
+msgstr ""
+
+msgid "Please disable adblock!"
+msgstr ""
+
+msgid "Product %s"
+msgstr ""
+
+msgid "Buy now"
+msgstr ""
+
+msgid "Mining with %s Hashes/s"
+msgstr ""
+
+msgid "Start mining"
+msgstr ""
+
+msgid "Stop mining"
+msgstr ""
+
+msgid "proof of work required – redirecting shortly"
+msgstr ""
+
+msgid "powered by"
+msgstr ""
+
+msgid "Redirecting..."
+msgstr ""
+
+msgid "You can now support me directly on this page using the power of your computer. You can turn it off anytime."
+msgstr ""
+
+msgid "Fetched"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Total Hashes"
+msgstr ""
+
+msgid "Tokens"
+msgstr ""
+
+msgid "Withdrawn"
+msgstr ""
+
+msgid "Logged in as %s"
+msgstr ""
+
+msgid "%sLogin%s to view your account data."
+msgstr ""
+
+
